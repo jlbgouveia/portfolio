@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>arima model on José Gouveia</title>
-    <link>https://jlbgouveia.github.io/jose_portfolio/tags/arima-model/</link>
+    <link>https://jlbgouveia.github.io/portfolio/tags/arima-model/</link>
     <description>Recent content in arima model on José Gouveia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 11:15:58 -0400</lastBuildDate><atom:link href="https://jlbgouveia.github.io/jose_portfolio/tags/arima-model/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2020 11:15:58 -0400</lastBuildDate><atom:link href="https://jlbgouveia.github.io/portfolio/tags/arima-model/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Predicting Oil and Gold Prices - ARIMA Model</title>
-      <link>https://jlbgouveia.github.io/jose_portfolio/post/project-5_suriname/</link>
+      <link>https://jlbgouveia.github.io/portfolio/post/project-5_suriname/</link>
       <pubDate>Sat, 14 Mar 2020 11:15:58 -0400</pubDate>
       
-      <guid>https://jlbgouveia.github.io/jose_portfolio/post/project-5_suriname/</guid>
+      <guid>https://jlbgouveia.github.io/portfolio/post/project-5_suriname/</guid>
       <description>Motivation: What are the prospects of investing in Suriname for an international investor? How has the development of prices and exchange rates been in this country? And how can we predict its development? Understanding Suriname’s economic outlook and development is the main goal of the project. This country’s economy, however, is highly dependent on gold and oil price shifts, so understanding the development of these commodities prices could give us insights on the prior.</description>
     </item>
     
