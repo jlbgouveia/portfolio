@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud computing on José Gouveia</title>
+    <link>https://jlbgouveia.github.io/jose_portfolio/tags/cloud-computing/</link>
+    <description>Recent content in cloud computing on José Gouveia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://jlbgouveia.github.io/jose_portfolio/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementing a Trading Algorithm</title>
+      <link>https://jlbgouveia.github.io/jose_portfolio/post/project-7_prestigealgo/</link>
+      <pubDate>Sat, 31 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://jlbgouveia.github.io/jose_portfolio/post/project-7_prestigealgo/</guid>
+      <description>The Project: By late 2020, a close friend of mine asked for help implementing a trading strategy he had thought of. I eagerly accepted the challenge. I can’t say, however, that I expected it to be extremely profitable. His idea was so simple, it was difficult to believe that it would fare well in a market filled with sophisticated trading algorithms. But, well.. it turned out to do just that.</description>
+    </item>
+    
+  </channel>
+</rss>
